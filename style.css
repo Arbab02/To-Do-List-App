@@ -1,0 +1,34 @@
+
+.container{
+    margin: 2rem 0px 0px 29rem;
+    /* border: 2px solid black; */
+}
+
+h1{
+text-align: center;
+}
+input{
+    border: 2px solid rgb(29, 6, 56);
+    outline: none;
+    border-radius: 5px;
+    padding: 10px 3px 10px 5px;
+}
+button{
+    background-color: rgb(29, 6, 56);
+    border-radius: 3px;
+    border: none;
+    padding: 8px 30px;
+    font-size: 1.2rem;
+    color: white;
+    font-family: serif;
+    margin: 10px 0.2rem;
+}
+button:hover{
+    background-color: rgb(42, 9, 80);
+    cursor: pointer;
+   
+}
+
+#box{
+    margin: 0px 0px 0px 5rem;
+}
